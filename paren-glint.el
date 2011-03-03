@@ -2,8 +2,8 @@
 
 ;; Copyright (C) 2005  Free Software Foundation, Inc.
 
-;; Author: Karl Landström <kland at comhem dot se>
-;; Maintainer: Karl Landström <kland at comhem.se>
+;; Author: Karl Landström <karl@karllandstrom.se>
+;; Maintainer: Karl Landström <karl@karllandstrom.se>
 ;; Version: 1.0
 ;; Keywords: languages, faces
 
